@@ -1,2 +1,2 @@
 # Kirthi
-git hub
+my-first-repository
